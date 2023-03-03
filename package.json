@@ -11,9 +11,12 @@
     "url": "git+https://github.com/taranoff/mirrors.git"
   },
   "author": "Ivan Klochkov",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/taranoff/mirrors/issues"
   },
-  "homepage": "https://github.com/taranoff/mirrors#readme"
+  "homepage": "https://github.com/taranoff/mirrors#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
