@@ -1,0 +1,19 @@
+{
+  "name": "mirrors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mirrors.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taranoff/mirrors.git"
+  },
+  "author": "Ivan Klochkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taranoff/mirrors/issues"
+  },
+  "homepage": "https://github.com/taranoff/mirrors#readme"
+}
