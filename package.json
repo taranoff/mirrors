@@ -1,6 +1,6 @@
 {
   "name": "@ivan_taranoff/mirrors",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "",
   "main": "mirrors.json",
   "scripts": {
